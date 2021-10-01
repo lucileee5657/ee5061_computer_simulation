@@ -1,0 +1,27 @@
+Bus inspection and repair model
+
+Number of work stations                    2
+
+Number of machines in each station         1    2
+
+Distribution function of inspection and reapir times     0.250    1.050   2.100    4.500
+
+Arrival rate of bus                3.00 per hours
+
+Mean interarrival time of bus          0.33 hours
+
+Length of the simulation               160.0 hours 
+
+Prob to repair                       0.3
+
+prob to re-inspect                   0.3
+
+
+
+
+ Work      Average number      Average       Average delay
+station       in queue       utilization        in queue
+
+Ispection      142.485            0.998           42.394
+
+   Repair        0.557            0.745            1.085

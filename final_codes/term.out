@@ -1,0 +1,2527 @@
+
+
+
+Edge Server Model (lambda = 1, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.1000 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.000
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.000            0.093            0.000
+
+   2            0.000            0.089            0.000
+
+   3            0.000            0.089            0.000
+
+   4            0.000            0.089            0.000
+
+   5            0.000            0.092            0.000
+
+   6            0.000            0.089            0.000
+
+   7            0.000            0.090            0.000
+
+   8            0.000            0.090            0.000
+
+   9            0.000            0.090            0.000
+
+  10            0.000            0.091            0.000
+
+
+Edge Server Model (lambda = 2, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0500 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.000
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.000            0.178            0.000
+
+   2            0.000            0.182            0.000
+
+   3            0.000            0.180            0.000
+
+   4            0.000            0.179            0.000
+
+   5            0.000            0.183            0.000
+
+   6            0.000            0.184            0.000
+
+   7            0.000            0.181            0.000
+
+   8            0.000            0.183            0.000
+
+   9            0.000            0.180            0.000
+
+  10            0.000            0.181            0.000
+
+
+Edge Server Model (lambda = 3, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0333 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.000
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.000            0.273            0.000
+
+   2            0.000            0.275            0.000
+
+   3            0.000            0.273            0.000
+
+   4            0.000            0.272            0.000
+
+   5            0.000            0.272            0.000
+
+   6            0.000            0.272            0.000
+
+   7            0.000            0.276            0.000
+
+   8            0.000            0.274            0.000
+
+   9            0.000            0.275            0.000
+
+  10            0.000            0.275            0.000
+
+
+Edge Server Model (lambda = 4, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0250 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.000
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.003            0.366            0.001
+
+   2            0.001            0.363            0.000
+
+   3            0.002            0.364            0.000
+
+   4            0.002            0.368            0.001
+
+   5            0.001            0.364            0.000
+
+   6            0.001            0.363            0.000
+
+   7            0.002            0.362            0.000
+
+   8            0.001            0.359            0.000
+
+   9            0.001            0.360            0.000
+
+  10            0.002            0.363            0.000
+
+
+Edge Server Model (lambda = 5, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0200 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.002
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.008            0.456            0.002
+
+   2            0.008            0.448            0.002
+
+   3            0.009            0.456            0.002
+
+   4            0.011            0.457            0.002
+
+   5            0.009            0.452            0.002
+
+   6            0.012            0.458            0.002
+
+   7            0.010            0.455            0.002
+
+   8            0.008            0.455            0.002
+
+   9            0.009            0.455            0.002
+
+  10            0.008            0.454            0.002
+
+
+Edge Server Model (lambda = 6, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0167 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.007
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.036            0.545            0.006
+
+   2            0.043            0.543            0.007
+
+   3            0.046            0.547            0.008
+
+   4            0.035            0.543            0.006
+
+   5            0.045            0.550            0.007
+
+   6            0.040            0.543            0.007
+
+   7            0.040            0.547            0.007
+
+   8            0.034            0.544            0.006
+
+   9            0.044            0.546            0.007
+
+  10            0.044            0.545            0.007
+
+
+Edge Server Model (lambda = 7, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0143 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.020
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.148            0.635            0.021
+
+   2            0.136            0.633            0.019
+
+   3            0.151            0.633            0.022
+
+   4            0.131            0.638            0.019
+
+   5            0.130            0.639            0.019
+
+   6            0.156            0.634            0.022
+
+   7            0.137            0.635            0.020
+
+   8            0.131            0.630            0.019
+
+   9            0.122            0.632            0.017
+
+  10            0.142            0.641            0.020
+
+
+Edge Server Model (lambda = 8, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0125 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.057
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.409            0.723            0.051
+
+   2            0.527            0.736            0.066
+
+   3            0.459            0.726            0.057
+
+   4            0.486            0.736            0.060
+
+   5            0.413            0.726            0.051
+
+   6            0.438            0.724            0.055
+
+   7            0.492            0.729            0.061
+
+   8            0.432            0.727            0.054
+
+   9            0.427            0.725            0.053
+
+  10            0.495            0.731            0.062
+
+
+Edge Server Model (lambda = 9, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0111 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.159
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            1.386            0.818            0.154
+
+   2            1.309            0.816            0.146
+
+   3            1.373            0.814            0.153
+
+   4            1.357            0.817            0.151
+
+   5            1.488            0.820            0.165
+
+   6            1.422            0.823            0.157
+
+   7            1.431            0.820            0.158
+
+   8            1.515            0.821            0.169
+
+   9            1.501            0.820            0.166
+
+  10            1.568            0.822            0.175
+
+
+Edge Server Model (lambda = 10, original)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0100 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.591
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.641            0.906            0.564
+
+   2            5.294            0.912            0.529
+
+   3            5.773            0.903            0.580
+
+   4            5.110            0.910            0.512
+
+   5            5.494            0.911            0.547
+
+   6            6.038            0.912            0.603
+
+   7            6.074            0.913            0.607
+
+   8            5.119            0.902            0.513
+
+   9            7.109            0.913            0.707
+
+  10            7.494            0.917            0.743
+
+
+*** Edge Server Model (lambda = 1, alpha = 1.00)
+
+Number of edge servers                    1
+
+Number of virtual machines in each server        11
+
+Number of job types                        1
+
+
+
+Mean interarrival time of jobs        0.1000 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   1.000
+
+Overall average server total delay =     0.756
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            7.606            0.915            0.756
+
+
+*** Edge Server Model (lambda = 1, alpha = 0.70)
+
+Number of edge servers                    1
+
+Number of virtual machines in each server        11
+
+Number of job types                        1
+
+
+
+Mean interarrival time of jobs        0.1000 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   1.000
+
+Overall average server total delay =     0.626
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.246            0.908            0.626
+
+
+*** Edge Server Model (lambda = 1, alpha = 0.50)
+
+Number of edge servers                    2
+
+Number of virtual machines in each server        11   11
+
+Number of job types                        2
+
+
+
+Mean interarrival time of jobs        0.1000 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.500   1.000
+
+Overall average server total delay =     0.002
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.007            0.454            0.001
+
+   2            0.010            0.454            0.002
+
+
+*** Edge Server Model (lambda = 1, alpha = 0.30)
+
+Number of edge servers                    2
+
+Number of virtual machines in each server        11   11
+
+Number of job types                        2
+
+
+
+Mean interarrival time of jobs        0.1000 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.500   1.000
+
+Overall average server total delay =     0.002
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.007            0.453            0.001
+
+   2            0.010            0.450            0.002
+
+
+*** Edge Server Model (lambda = 1, alpha = 0.10)
+
+Number of edge servers                    2
+
+Number of virtual machines in each server        11   11
+
+Number of job types                        2
+
+
+
+Mean interarrival time of jobs        0.1000 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.500   1.000
+
+Overall average server total delay =     0.002
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.011            0.455            0.002
+
+   2            0.008            0.454            0.002
+
+
+*** Edge Server Model (lambda = 2, alpha = 1.00)
+
+Number of edge servers                    2
+
+Number of virtual machines in each server        11   11
+
+Number of job types                        2
+
+
+
+Mean interarrival time of jobs        0.0500 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.500   1.000
+
+Overall average server total delay =     0.622
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.371            0.910            0.636
+
+   2            6.071            0.910            0.607
+
+
+*** Edge Server Model (lambda = 2, alpha = 0.70)
+
+Number of edge servers                    2
+
+Number of virtual machines in each server        11   11
+
+Number of job types                        2
+
+
+
+Mean interarrival time of jobs        0.0500 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.500   1.000
+
+Overall average server total delay =     0.558
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.105            0.903            0.512
+
+   2            6.022            0.912            0.604
+
+
+*** Edge Server Model (lambda = 2, alpha = 0.50)
+
+Number of edge servers                    3
+
+Number of virtual machines in each server        11   11   11
+
+Number of job types                        3
+
+
+
+Mean interarrival time of jobs        0.0500 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.333   0.667   1.000
+
+Overall average server total delay =     0.014
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.090            0.608            0.014
+
+   2            0.100            0.610            0.015
+
+   3            0.089            0.608            0.013
+
+
+*** Edge Server Model (lambda = 2, alpha = 0.30)
+
+Number of edge servers                    3
+
+Number of virtual machines in each server        11   11   11
+
+Number of job types                        3
+
+
+
+Mean interarrival time of jobs        0.0500 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.333   0.667   1.000
+
+Overall average server total delay =     0.015
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.097            0.602            0.015
+
+   2            0.086            0.612            0.013
+
+   3            0.109            0.609            0.016
+
+
+*** Edge Server Model (lambda = 2, alpha = 0.10)
+
+Number of edge servers                    3
+
+Number of virtual machines in each server        11   11   11
+
+Number of job types                        3
+
+
+
+Mean interarrival time of jobs        0.0500 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.333   0.667   1.000
+
+Overall average server total delay =     0.014
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.096            0.607            0.014
+
+   2            0.101            0.607            0.015
+
+   3            0.090            0.603            0.014
+
+
+*** Edge Server Model (lambda = 3, alpha = 1.00)
+
+Number of edge servers                    3
+
+Number of virtual machines in each server        11   11   11
+
+Number of job types                        3
+
+
+
+Mean interarrival time of jobs        0.0333 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.333   0.667   1.000
+
+Overall average server total delay =     0.569
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.294            0.911            0.627
+
+   2            5.605            0.909            0.562
+
+   3            5.186            0.907            0.520
+
+
+*** Edge Server Model (lambda = 3, alpha = 0.70)
+
+Number of edge servers                    3
+
+Number of virtual machines in each server        11   11   11
+
+Number of job types                        3
+
+
+
+Mean interarrival time of jobs        0.0333 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.333   0.667   1.000
+
+Overall average server total delay =     0.625
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.733            0.909            0.571
+
+   2            5.830            0.909            0.582
+
+   3            7.278            0.915            0.723
+
+
+*** Edge Server Model (lambda = 3, alpha = 0.50)
+
+Number of edge servers                    3
+
+Number of virtual machines in each server        11   11   11
+
+Number of job types                        3
+
+
+
+Mean interarrival time of jobs        0.0333 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.333   0.667   1.000
+
+Overall average server total delay =     0.525
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            4.805            0.908            0.483
+
+   2            6.649            0.915            0.664
+
+   3            4.240            0.895            0.428
+
+
+*** Edge Server Model (lambda = 3, alpha = 0.30)
+
+Number of edge servers                    4
+
+Number of virtual machines in each server        11   11   11   11
+
+Number of job types                        4
+
+
+
+Mean interarrival time of jobs        0.0333 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.250   0.500   0.750   1.000
+
+Overall average server total delay =     0.035
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.279            0.683            0.037
+
+   2            0.241            0.685            0.032
+
+   3            0.283            0.683            0.038
+
+   4            0.237            0.676            0.032
+
+
+*** Edge Server Model (lambda = 3, alpha = 0.10)
+
+Number of edge servers                    4
+
+Number of virtual machines in each server        11   11   11   11
+
+Number of job types                        4
+
+
+
+Mean interarrival time of jobs        0.0333 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.250   0.500   0.750   1.000
+
+Overall average server total delay =     0.034
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.293            0.687            0.039
+
+   2            0.245            0.679            0.033
+
+   3            0.222            0.676            0.030
+
+   4            0.251            0.678            0.034
+
+
+*** Edge Server Model (lambda = 4, alpha = 1.00)
+
+Number of edge servers                    4
+
+Number of virtual machines in each server        11   11   11   11
+
+Number of job types                        4
+
+
+
+Mean interarrival time of jobs        0.0250 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.250   0.500   0.750   1.000
+
+Overall average server total delay =     0.526
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.514            0.903            0.553
+
+   2            5.504            0.906            0.553
+
+   3            4.609            0.904            0.462
+
+   4            5.362            0.910            0.535
+
+
+*** Edge Server Model (lambda = 4, alpha = 0.70)
+
+Number of edge servers                    4
+
+Number of virtual machines in each server        11   11   11   11
+
+Number of job types                        4
+
+
+
+Mean interarrival time of jobs        0.0250 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.250   0.500   0.750   1.000
+
+Overall average server total delay =     0.607
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.735            0.909            0.676
+
+   2            5.625            0.908            0.564
+
+   3            6.177            0.913            0.616
+
+   4            5.758            0.908            0.574
+
+
+*** Edge Server Model (lambda = 4, alpha = 0.50)
+
+Number of edge servers                    4
+
+Number of virtual machines in each server        11   11   11   11
+
+Number of job types                        4
+
+
+
+Mean interarrival time of jobs        0.0250 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.250   0.500   0.750   1.000
+
+Overall average server total delay =     0.599
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.465            0.912            0.647
+
+   2            5.264            0.907            0.527
+
+   3            6.265            0.912            0.624
+
+   4            5.950            0.909            0.597
+
+
+*** Edge Server Model (lambda = 4, alpha = 0.30)
+
+Number of edge servers                    5
+
+Number of virtual machines in each server        11   11   11   11   11
+
+Number of job types                        5
+
+
+
+Mean interarrival time of jobs        0.0250 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.200   0.400   0.600   0.800   1.000
+
+Overall average server total delay =     0.053
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.448            0.728            0.056
+
+   2            0.428            0.728            0.054
+
+   3            0.384            0.724            0.048
+
+   4            0.450            0.726            0.057
+
+   5            0.420            0.726            0.053
+
+
+*** Edge Server Model (lambda = 4, alpha = 0.10)
+
+Number of edge servers                    5
+
+Number of virtual machines in each server        11   11   11   11   11
+
+Number of job types                        5
+
+
+
+Mean interarrival time of jobs        0.0250 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.200   0.400   0.600   0.800   1.000
+
+Overall average server total delay =     0.056
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.466            0.734            0.058
+
+   2            0.412            0.729            0.051
+
+   3            0.431            0.722            0.054
+
+   4            0.484            0.732            0.060
+
+   5            0.436            0.726            0.054
+
+
+*** Edge Server Model (lambda = 5, alpha = 1.00)
+
+Number of edge servers                    5
+
+Number of virtual machines in each server        11   11   11   11   11
+
+Number of job types                        5
+
+
+
+Mean interarrival time of jobs        0.0200 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.200   0.400   0.600   0.800   1.000
+
+Overall average server total delay =     0.645
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            7.027            0.913            0.701
+
+   2            5.279            0.906            0.530
+
+   3            6.769            0.909            0.676
+
+   4            6.920            0.906            0.695
+
+   5            6.243            0.913            0.624
+
+
+*** Edge Server Model (lambda = 5, alpha = 0.70)
+
+Number of edge servers                    5
+
+Number of virtual machines in each server        11   11   11   11   11
+
+Number of job types                        5
+
+
+
+Mean interarrival time of jobs        0.0200 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.200   0.400   0.600   0.800   1.000
+
+Overall average server total delay =     0.623
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.859            0.909            0.586
+
+   2            6.891            0.903            0.693
+
+   3            5.706            0.908            0.571
+
+   4            7.145            0.919            0.711
+
+   5            5.533            0.905            0.555
+
+
+*** Edge Server Model (lambda = 5, alpha = 0.50)
+
+Number of edge servers                    5
+
+Number of virtual machines in each server        11   11   11   11   11
+
+Number of job types                        5
+
+
+
+Mean interarrival time of jobs        0.0200 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.200   0.400   0.600   0.800   1.000
+
+Overall average server total delay =     0.607
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.389            0.910            0.639
+
+   2            5.617            0.912            0.565
+
+   3            5.725            0.909            0.574
+
+   4            5.581            0.913            0.555
+
+   5            7.043            0.915            0.702
+
+
+*** Edge Server Model (lambda = 5, alpha = 0.30)
+
+Number of edge servers                    6
+
+Number of virtual machines in each server        11   11   11   11   11   11
+
+Number of job types                        6
+
+
+
+Mean interarrival time of jobs        0.0200 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.167   0.333   0.500   0.667   0.833   1.000
+
+Overall average server total delay =     0.078
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.740            0.763            0.088
+
+   2            0.642            0.752            0.077
+
+   3            0.561            0.754            0.067
+
+   4            0.682            0.753            0.082
+
+   5            0.657            0.755            0.079
+
+   6            0.628            0.757            0.075
+
+
+*** Edge Server Model (lambda = 5, alpha = 0.10)
+
+Number of edge servers                    6
+
+Number of virtual machines in each server        11   11   11   11   11   11
+
+Number of job types                        6
+
+
+
+Mean interarrival time of jobs        0.0200 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.167   0.333   0.500   0.667   0.833   1.000
+
+Overall average server total delay =     0.077
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.658            0.760            0.079
+
+   2            0.675            0.758            0.081
+
+   3            0.637            0.753            0.077
+
+   4            0.644            0.761            0.077
+
+   5            0.638            0.751            0.077
+
+   6            0.570            0.750            0.069
+
+
+*** Edge Server Model (lambda = 6, alpha = 1.00)
+
+Number of edge servers                    6
+
+Number of virtual machines in each server        11   11   11   11   11   11
+
+Number of job types                        6
+
+
+
+Mean interarrival time of jobs        0.0167 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.167   0.333   0.500   0.667   0.833   1.000
+
+Overall average server total delay =     0.580
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.802            0.910            0.578
+
+   2            4.880            0.904            0.490
+
+   3            5.310            0.913            0.529
+
+   4            6.713            0.911            0.668
+
+   5            5.917            0.910            0.592
+
+   6            6.201            0.907            0.620
+
+
+*** Edge Server Model (lambda = 6, alpha = 0.70)
+
+Number of edge servers                    6
+
+Number of virtual machines in each server        11   11   11   11   11   11
+
+Number of job types                        6
+
+
+
+Mean interarrival time of jobs        0.0167 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.167   0.333   0.500   0.667   0.833   1.000
+
+Overall average server total delay =     0.552
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.993            0.910            0.600
+
+   2            5.713            0.899            0.574
+
+   3            4.862            0.905            0.485
+
+   4            6.109            0.914            0.608
+
+   5            4.836            0.899            0.489
+
+   6            5.576            0.911            0.557
+
+
+*** Edge Server Model (lambda = 6, alpha = 0.50)
+
+Number of edge servers                    6
+
+Number of virtual machines in each server        11   11   11   11   11   11
+
+Number of job types                        6
+
+
+
+Mean interarrival time of jobs        0.0167 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.167   0.333   0.500   0.667   0.833   1.000
+
+Overall average server total delay =     0.565
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.609            0.913            0.560
+
+   2            6.132            0.912            0.612
+
+   3            5.198            0.904            0.521
+
+   4            6.730            0.917            0.671
+
+   5            4.820            0.904            0.486
+
+   6            5.432            0.914            0.539
+
+
+*** Edge Server Model (lambda = 6, alpha = 0.30)
+
+Number of edge servers                    7
+
+Number of virtual machines in each server        11   11   11   11   11   11   11
+
+Number of job types                        7
+
+
+
+Mean interarrival time of jobs        0.0167 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.143   0.286   0.429   0.571   0.714   0.857   1.000
+
+Overall average server total delay =     0.094
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.827            0.779            0.096
+
+   2            0.812            0.780            0.094
+
+   3            0.770            0.774            0.090
+
+   4            0.712            0.776            0.083
+
+   5            0.779            0.777            0.091
+
+   6            0.898            0.779            0.105
+
+   7            0.820            0.781            0.095
+
+
+*** Edge Server Model (lambda = 6, alpha = 0.10)
+
+Number of edge servers                    7
+
+Number of virtual machines in each server        11   11   11   11   11   11   11
+
+Number of job types                        7
+
+
+
+Mean interarrival time of jobs        0.0167 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.143   0.286   0.429   0.571   0.714   0.857   1.000
+
+Overall average server total delay =     0.104
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.897            0.777            0.105
+
+   2            0.830            0.778            0.097
+
+   3            0.801            0.772            0.094
+
+   4            0.979            0.777            0.115
+
+   5            1.020            0.786            0.118
+
+   6            0.890            0.782            0.103
+
+   7            0.795            0.779            0.093
+
+
+*** Edge Server Model (lambda = 7, alpha = 1.00)
+
+Number of edge servers                    7
+
+Number of virtual machines in each server        11   11   11   11   11   11   11
+
+Number of job types                        7
+
+
+
+Mean interarrival time of jobs        0.0143 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.143   0.286   0.429   0.571   0.714   0.857   1.000
+
+Overall average server total delay =     0.595
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.243            0.916            0.620
+
+   2            5.851            0.904            0.585
+
+   3            5.470            0.908            0.548
+
+   4            5.499            0.899            0.557
+
+   5            5.327            0.907            0.532
+
+   6            6.786            0.915            0.674
+
+   7            6.544            0.918            0.649
+
+
+*** Edge Server Model (lambda = 7, alpha = 0.70)
+
+Number of edge servers                    7
+
+Number of virtual machines in each server        11   11   11   11   11   11   11
+
+Number of job types                        7
+
+
+
+Mean interarrival time of jobs        0.0143 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.143   0.286   0.429   0.571   0.714   0.857   1.000
+
+Overall average server total delay =     0.572
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.378            0.906            0.538
+
+   2            6.291            0.907            0.631
+
+   3            5.362            0.905            0.536
+
+   4            5.534            0.909            0.556
+
+   5            6.212            0.915            0.619
+
+   6            7.013            0.907            0.699
+
+   7            4.266            0.899            0.429
+
+
+*** Edge Server Model (lambda = 7, alpha = 0.50)
+
+Number of edge servers                    7
+
+Number of virtual machines in each server        11   11   11   11   11   11   11
+
+Number of job types                        7
+
+
+
+Mean interarrival time of jobs        0.0143 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.143   0.286   0.429   0.571   0.714   0.857   1.000
+
+Overall average server total delay =     0.538
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            4.947            0.910            0.493
+
+   2            5.131            0.905            0.514
+
+   3            5.262            0.906            0.527
+
+   4            4.583            0.901            0.462
+
+   5            6.042            0.911            0.601
+
+   6            5.440            0.907            0.545
+
+   7            6.227            0.913            0.621
+
+
+*** Edge Server Model (lambda = 7, alpha = 0.30)
+
+Number of edge servers                    8
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11
+
+Number of job types                        8
+
+
+
+Mean interarrival time of jobs        0.0143 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.125   0.250   0.375   0.500   0.625   0.750   0.875   1.000
+
+Overall average server total delay =     0.116
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            0.951            0.795            0.108
+
+   2            0.904            0.786            0.104
+
+   3            1.030            0.789            0.118
+
+   4            1.054            0.799            0.120
+
+   5            1.096            0.793            0.126
+
+   6            0.923            0.788            0.106
+
+   7            1.150            0.800            0.131
+
+   8            1.003            0.788            0.115
+
+
+*** Edge Server Model (lambda = 7, alpha = 0.10)
+
+Number of edge servers                    8
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11
+
+Number of job types                        8
+
+
+
+Mean interarrival time of jobs        0.0143 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.125   0.250   0.375   0.500   0.625   0.750   0.875   1.000
+
+Overall average server total delay =     0.129
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            1.097            0.794            0.125
+
+   2            1.341            0.804            0.152
+
+   3            1.016            0.793            0.117
+
+   4            1.080            0.794            0.123
+
+   5            1.240            0.805            0.141
+
+   6            1.140            0.798            0.130
+
+   7            1.156            0.795            0.132
+
+   8            0.978            0.793            0.112
+
+
+*** Edge Server Model (lambda = 8, alpha = 1.00)
+
+Number of edge servers                    8
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11
+
+Number of job types                        8
+
+
+
+Mean interarrival time of jobs        0.0125 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.125   0.250   0.375   0.500   0.625   0.750   0.875   1.000
+
+Overall average server total delay =     0.556
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.928            0.913            0.592
+
+   2            4.863            0.903            0.489
+
+   3            5.727            0.908            0.573
+
+   4            5.260            0.907            0.526
+
+   5            4.870            0.903            0.490
+
+   6            6.731            0.914            0.674
+
+   7            5.191            0.902            0.521
+
+   8            5.774            0.905            0.581
+
+
+*** Edge Server Model (lambda = 8, alpha = 0.70)
+
+Number of edge servers                    8
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11
+
+Number of job types                        8
+
+
+
+Mean interarrival time of jobs        0.0125 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.125   0.250   0.375   0.500   0.625   0.750   0.875   1.000
+
+Overall average server total delay =     0.609
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.575            0.906            0.559
+
+   2            5.905            0.910            0.591
+
+   3            7.146            0.918            0.710
+
+   4            6.304            0.917            0.625
+
+   5            6.450            0.920            0.639
+
+   6            5.046            0.902            0.505
+
+   7            5.936            0.910            0.592
+
+   8            6.584            0.915            0.654
+
+
+*** Edge Server Model (lambda = 8, alpha = 0.50)
+
+Number of edge servers                    8
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11
+
+Number of job types                        8
+
+
+
+Mean interarrival time of jobs        0.0125 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.125   0.250   0.375   0.500   0.625   0.750   0.875   1.000
+
+Overall average server total delay =     0.594
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.193            0.911            0.620
+
+   2            6.324            0.910            0.634
+
+   3            5.412            0.907            0.543
+
+   4            6.167            0.913            0.614
+
+   5            5.681            0.909            0.568
+
+   6            6.880            0.914            0.685
+
+   7            5.539            0.910            0.550
+
+   8            5.358            0.905            0.538
+
+
+*** Edge Server Model (lambda = 8, alpha = 0.30)
+
+Number of edge servers                    8
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11
+
+Number of job types                        8
+
+
+
+Mean interarrival time of jobs        0.0125 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.125   0.250   0.375   0.500   0.625   0.750   0.875   1.000
+
+Overall average server total delay =     0.608
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.055            0.905            0.505
+
+   2            6.386            0.908            0.638
+
+   3            6.166            0.911            0.616
+
+   4            6.660            0.912            0.665
+
+   5            6.072            0.915            0.606
+
+   6            5.396            0.910            0.540
+
+   7            7.077            0.917            0.701
+
+   8            5.946            0.911            0.594
+
+
+*** Edge Server Model (lambda = 8, alpha = 0.10)
+
+Number of edge servers                    9
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11
+
+Number of job types                        9
+
+
+
+Mean interarrival time of jobs        0.0125 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.111   0.222   0.333   0.444   0.556   0.667   0.778   0.889   1.000
+
+Overall average server total delay =     0.142
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            1.196            0.808            0.135
+
+   2            1.250            0.804            0.141
+
+   3            1.320            0.811            0.148
+
+   4            1.228            0.805            0.138
+
+   5            1.276            0.807            0.143
+
+   6            1.322            0.808            0.149
+
+   7            1.078            0.806            0.121
+
+   8            1.188            0.807            0.133
+
+   9            1.473            0.810            0.166
+
+
+*** Edge Server Model (lambda = 9, alpha = 1.00)
+
+Number of edge servers                    9
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11
+
+Number of job types                        9
+
+
+
+Mean interarrival time of jobs        0.0111 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.111   0.222   0.333   0.444   0.556   0.667   0.778   0.889   1.000
+
+Overall average server total delay =     0.635
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.496            0.904            0.554
+
+   2            6.403            0.916            0.638
+
+   3            6.499            0.910            0.650
+
+   4            8.237            0.923            0.818
+
+   5            6.422            0.920            0.635
+
+   6            5.078            0.907            0.507
+
+   7            5.617            0.908            0.564
+
+   8            7.640            0.919            0.759
+
+   9            5.866            0.910            0.588
+
+
+*** Edge Server Model (lambda = 9, alpha = 0.70)
+
+Number of edge servers                    9
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11
+
+Number of job types                        9
+
+
+
+Mean interarrival time of jobs        0.0111 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.111   0.222   0.333   0.444   0.556   0.667   0.778   0.889   1.000
+
+Overall average server total delay =     0.587
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.038            0.911            0.604
+
+   2            5.563            0.908            0.558
+
+   3            5.723            0.912            0.571
+
+   4            6.227            0.912            0.620
+
+   5            5.670            0.913            0.562
+
+   6            6.235            0.917            0.624
+
+   7            5.668            0.910            0.566
+
+   8            6.154            0.910            0.615
+
+   9            5.567            0.906            0.558
+
+
+*** Edge Server Model (lambda = 9, alpha = 0.50)
+
+Number of edge servers                    9
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11
+
+Number of job types                        9
+
+
+
+Mean interarrival time of jobs        0.0111 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.111   0.222   0.333   0.444   0.556   0.667   0.778   0.889   1.000
+
+Overall average server total delay =     0.566
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.362            0.904            0.538
+
+   2            5.823            0.914            0.580
+
+   3            4.823            0.904            0.485
+
+   4            5.368            0.908            0.539
+
+   5            6.973            0.919            0.692
+
+   6            5.563            0.908            0.555
+
+   7            4.880            0.904            0.489
+
+   8            6.592            0.911            0.659
+
+   9            5.597            0.912            0.558
+
+
+*** Edge Server Model (lambda = 9, alpha = 0.30)
+
+Number of edge servers                    9
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11
+
+Number of job types                        9
+
+
+
+Mean interarrival time of jobs        0.0111 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.111   0.222   0.333   0.444   0.556   0.667   0.778   0.889   1.000
+
+Overall average server total delay =     0.580
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            6.036            0.909            0.603
+
+   2            5.478            0.908            0.550
+
+   3            4.831            0.908            0.484
+
+   4            4.381            0.905            0.437
+
+   5            5.835            0.908            0.581
+
+   6            6.523            0.911            0.651
+
+   7            6.680            0.910            0.665
+
+   8            6.427            0.916            0.639
+
+   9            6.037            0.911            0.605
+
+
+*** Edge Server Model (lambda = 9, alpha = 0.10)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0111 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.164
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            1.619            0.821            0.180
+
+   2            1.315            0.815            0.146
+
+   3            1.678            0.825            0.186
+
+   4            1.290            0.818            0.143
+
+   5            1.415            0.813            0.158
+
+   6            1.515            0.820            0.168
+
+   7            1.408            0.818            0.156
+
+   8            1.486            0.819            0.165
+
+   9            1.413            0.816            0.156
+
+  10            1.657            0.824            0.183
+
+
+*** Edge Server Model (lambda = 10, alpha = 1.00)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0100 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.567
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.394            0.908            0.540
+
+   2            5.615            0.908            0.562
+
+   3            5.799            0.914            0.576
+
+   4            5.610            0.906            0.564
+
+   5            6.223            0.909            0.621
+
+   6            5.064            0.909            0.504
+
+   7            5.553            0.912            0.552
+
+   8            5.855            0.909            0.587
+
+   9            5.636            0.910            0.563
+
+  10            5.965            0.909            0.595
+
+
+*** Edge Server Model (lambda = 10, alpha = 0.70)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0100 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.619
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.224            0.907            0.524
+
+   2            6.233            0.907            0.624
+
+   3            7.483            0.919            0.744
+
+   4            6.792            0.909            0.677
+
+   5            5.531            0.906            0.551
+
+   6            5.606            0.910            0.561
+
+   7            6.586            0.916            0.654
+
+   8            5.253            0.906            0.528
+
+   9            6.228            0.913            0.619
+
+  10            7.185            0.919            0.713
+
+
+*** Edge Server Model (lambda = 10, alpha = 0.50)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0100 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.570
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.593            0.909            0.556
+
+   2            5.652            0.909            0.564
+
+   3            5.202            0.903            0.523
+
+   4            6.365            0.915            0.635
+
+   5            6.918            0.908            0.694
+
+   6            6.226            0.914            0.620
+
+   7            5.144            0.900            0.516
+
+   8            6.491            0.913            0.648
+
+   9            4.755            0.907            0.476
+
+  10            4.670            0.908            0.467
+
+
+*** Edge Server Model (lambda = 10, alpha = 0.30)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0100 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.539
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.551            0.911            0.552
+
+   2            5.538            0.908            0.555
+
+   3            6.642            0.910            0.663
+
+   4            5.002            0.904            0.503
+
+   5            4.653            0.906            0.465
+
+   6            4.772            0.901            0.480
+
+   7            4.481            0.905            0.449
+
+   8            6.287            0.906            0.632
+
+   9            6.436            0.908            0.645
+
+  10            4.448            0.901            0.446
+
+
+*** Edge Server Model (lambda = 10, alpha = 0.10)
+
+Number of edge servers                   10
+
+Number of virtual machines in each server        11   11   11   11   11   11   11   11   11   11
+
+Number of job types                       10
+
+
+
+Mean interarrival time of jobs        0.0100 sec in total
+
+Length of the simulation               120.0 minutes
+
+
+
+
+Mean departure time of jobs            1.00 sec in total
+
+   0.100   0.200   0.300   0.400   0.500   0.600   0.700   0.800   0.900   1.000
+
+Overall average server total delay =     0.589
+
+
+
+ Edge      Average number      Average       Average delay
+server       in queue       utilization        in queue
+
+   1            5.671            0.906            0.568
+
+   2            6.895            0.915            0.686
+
+   3            5.309            0.905            0.532
+
+   4            5.200            0.908            0.522
+
+   5            5.716            0.911            0.572
+
+   6            6.691            0.914            0.670
+
+   7            5.418            0.914            0.543
+
+   8            7.038            0.911            0.705
+
+   9            5.484            0.909            0.549
+
+  10            5.377            0.902            0.539
